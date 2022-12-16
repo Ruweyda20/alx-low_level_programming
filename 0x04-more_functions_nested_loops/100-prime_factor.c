@@ -4,10 +4,6 @@
  * main - print prime
  * Return: 0
  */
-<<<<<<< HEAD
-
-=======
->>>>>>> f1bea94b9bf0828617e7828f5656f52c97f84eeb
 int main(void)
 {
 	unsigned long int i = 3, n = 612852475143;
