@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _strlen - count arrray
- * @s: array of elements
+ * s: array of elements
  * Return: i
  */
 
@@ -60,4 +60,3 @@ char *str_concat(char *s1, char *s2)
 
 	return (dst);
 }
-	
